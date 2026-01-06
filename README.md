@@ -131,3 +131,83 @@
 </p>
 
 
+---
+
+##  Project: SchemeAssist AI – AID105
+
+### Student Name
+Bharath Singh Palthyavath
+
+### Project Description
+SchemeAssist AI is an AI-based Government Scheme Recommendation System developed to
+help citizens easily identify government schemes they are eligible for based on
+their personal profile, eligibility conditions, and location. The main intention
+of this project is to reduce the time and confusion involved in searching multiple
+government portals by providing clear, personalized, and explainable scheme
+recommendations.
+
+
+
+### AI Approach
+This project uses a **Knowledge-Based AI model** with **rule-based eligibility
+scoring**. Since government scheme eligibility rules are clearly defined and
+policy-driven, a rule-based and explainable AI approach is more suitable than
+complex machine learning models.
+
+The system evaluates user details such as age, income, category, and location,
+assigns eligibility scores to each scheme, and ranks the schemes based on how well
+they match the user’s profile.
+
+
+
+### Live Data Usage
+Live government data is used wherever it is practically available. In this project,
+live administrative location data is sourced from the **Local Government Directory
+(LGD)** to populate and validate user location details like State and District.
+
+Using LGD data helps ensure that:
+- Location information is official and up to date
+- Scheme filtering is accurate based on user location
+- The system behaves similarly to real government portals
+
+Eligibility rules such as age limits and income limits are not available as live
+machine-readable data, so they are manually structured using information from
+official scheme guidelines.
+
+
+### User Profile Data (Planned)
+To perform eligibility analysis, the system collects basic user information such as:
+- Age
+- Annual family income
+- State and district (selected using live LGD data)
+- Category (SC/ST/OBC/General)
+- Gender
+
+This information serves as the primary input for the AI recommendation engine.
+
+
+
+### Scheme Data (Planned)
+Each government scheme is represented using structured data that includes:
+- Scheme name and brief description
+- Benefits provided by the scheme
+- Eligibility criteria in readable form
+- Age and income limits
+- Applicable level (Central or State)
+- Category and gender applicability
+- Required documents and application details
+
+This structured representation allows the system to accurately evaluate eligibility
+and provide clear explanations for recommendations.
+
+
+
+### Current Progress
+- Gained a clear understanding of the project objectives and internship guidelines
+- Identified the required user profile and scheme-related data
+- Understood the use of live and manually structured data
+- Finalized the knowledge-based AI approach for eligibility analysis
+- Planned the hybrid data integration strategy
+
+
+
