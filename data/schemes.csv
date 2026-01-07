@@ -1,0 +1,101 @@
+scheme_id,scheme_name,min_age,max_age,income_limit,state,category,gender,level,scheme_category
+S001,Post Matric Scholarship SC,18,25,250000,Telangana,SC,All,State,Education
+S002,Pre Matric Scholarship SC,10,18,200000,Telangana,SC,All,State,Education
+S003,OBC Scholarship Scheme,18,25,250000,Telangana,OBC,All,State,Education
+S004,Minority Scholarship,18,30,250000,All,Minority,All,Central,Education
+S005,Merit Scholarship,17,23,300000,All,All,All,Central,Education
+S006,Women Education Support,18,35,200000,All,All,Female,Central,Education
+S007,Farmer Education Aid,18,30,300000,Telangana,All,All,State,Education
+S008,Tribal Student Support,15,28,250000,All,ST,All,Central,Education
+S009,Girl Child Education Scheme,10,25,200000,All,All,Female,Central,Education
+S010,Disabled Student Scholarship,10,30,400000,All,All,All,Central,Education
+S011,PM Awas Yojana,18,70,300000,All,All,All,Central,Housing
+S012,State Housing Scheme,21,65,250000,Telangana,All,All,State,Housing
+S013,Women Housing Assistance,21,60,200000,All,All,Female,Central,Housing
+S014,SC Housing Scheme,21,65,250000,All,SC,All,Central,Housing
+S015,ST Housing Support,21,65,250000,All,ST,All,Central,Housing
+S016,Urban Housing Mission,18,70,350000,All,All,All,Central,Housing
+S017,Rural Housing Program,18,70,300000,All,All,All,Central,Housing
+S018,Minority Housing Aid,21,65,250000,All,Minority,All,Central,Housing
+S019,Single Women Housing Scheme,21,60,200000,All,All,Female,State,Housing
+S020,Senior Citizen Housing Aid,60,100,300000,All,All,All,Central,Housing
+S021,Farmer Support Scheme,18,65,300000,Telangana,All,All,State,Agriculture
+S022,PM Kisan Yojana,18,65,300000,All,All,All,Central,Agriculture
+S023,Small Farmer Aid Scheme,18,60,250000,All,All,All,Central,Agriculture
+S024,Women Farmer Support,18,60,250000,All,All,Female,Central,Agriculture
+S025,Organic Farming Scheme,18,65,350000,All,All,All,Central,Agriculture
+S026,Tribal Farmer Welfare,18,65,300000,All,ST,All,Central,Agriculture
+S027,SC Farmer Assistance,18,65,300000,All,SC,All,Central,Agriculture
+S028,Irrigation Support Scheme,18,65,400000,All,All,All,Central,Agriculture
+S029,Dairy Development Scheme,18,60,350000,All,All,All,Central,Agriculture
+S030,Youth Agri Startup Scheme,21,40,500000,All,All,All,Central,Agriculture
+S031,Senior Citizen Pension Scheme,60,100,200000,All,All,All,Central,Pension
+S032,Old Age Pension State,60,100,180000,Telangana,All,All,State,Pension
+S033,Widow Pension Scheme,21,100,200000,All,All,Female,Central,Pension
+S034,Disability Pension Scheme,18,100,250000,All,All,All,Central,Pension
+S035,Minority Pension Aid,60,100,200000,All,Minority,All,Central,Pension
+S036,Farmer Old Age Pension,60,100,300000,All,All,All,Central,Pension
+S037,Women Senior Pension,60,100,200000,All,All,Female,Central,Pension
+S038,Unorganized Worker Pension,18,100,250000,All,All,All,Central,Pension
+S039,Construction Worker Pension,18,100,300000,All,All,All,Central,Pension
+S040,SC ST Pension Scheme,60,100,200000,All,SC/ST,All,Central,Pension
+S041,Ujjwala Yojana,18,70,250000,All,SC/ST/Female,Female,Central,Energy
+S042,Free Electricity Scheme,18,70,200000,Telangana,All,All,State,Energy
+S043,Solar Rooftop Scheme,21,70,500000,All,All,All,Central,Energy
+S044,Women LPG Support,18,70,250000,All,All,Female,Central,Energy
+S045,Rural Electrification Scheme,18,70,300000,All,All,All,Central,Energy
+S046,Green Energy Subsidy,21,65,600000,All,All,All,Central,Energy
+S047,Farmer Power Subsidy,18,65,350000,All,All,All,State,Energy
+S048,SC ST Energy Aid,18,70,250000,All,SC/ST,All,Central,Energy
+S049,Urban Energy Support,18,70,400000,All,All,All,Central,Energy
+S050,Senior Citizen Energy Aid,60,100,300000,All,All,All,Central,Energy
+S051,Women Health Insurance Scheme,18,60,300000,All,All,Female,Central,Health
+S052,Ayushman Bharat,0,100,500000,All,All,All,Central,Health
+S053,State Health Card Scheme,0,100,400000,Telangana,All,All,State,Health
+S054,Child Health Scheme,0,18,300000,All,All,All,Central,Health
+S055,Maternity Benefit Scheme,18,45,250000,All,All,Female,Central,Health
+S056,Senior Health Support,60,100,300000,All,All,All,Central,Health
+S057,Tribal Health Mission,0,100,300000,All,ST,All,Central,Health
+S058,SC Health Coverage,0,100,300000,All,SC,All,Central,Health
+S059,Minority Health Aid,0,100,300000,All,Minority,All,Central,Health
+S060,Disability Health Scheme,0,100,400000,All,All,All,Central,Health
+S061,Skill Development Scheme,18,35,300000,All,All,All,Central,Skill
+S062,Women Skill Training,18,45,250000,All,All,Female,Central,Skill
+S063,Youth Employment Program,18,35,350000,All,All,All,Central,Skill
+S064,Minority Skill Scheme,18,35,300000,All,Minority,All,Central,Skill
+S065,SC ST Skill Training,18,35,300000,All,SC/ST,All,Central,Skill
+S066,Rural Skill Mission,18,40,300000,All,All,All,Central,Skill
+S067,Urban Skill Program,18,40,350000,All,All,All,Central,Skill
+S068,Women Entrepreneurship Scheme,21,50,500000,All,All,Female,Central,Skill
+S069,Startup Support Scheme,21,45,600000,All,All,All,Central,Skill
+S070,Unemployed Youth Skill Aid,18,35,300000,All,All,All,Central,Skill
+S071,Self Help Group Support,18,60,300000,All,All,Female,Central,Social Welfare
+S072,Women Safety Scheme,18,60,All,All,All,Female,Central,Social Welfare
+S073,SC Welfare Scheme,18,70,250000,All,SC,All,Central,Social Welfare
+S074,ST Welfare Scheme,18,70,250000,All,ST,All,Central,Social Welfare
+S075,Minority Welfare Scheme,18,70,250000,All,Minority,All,Central,Social Welfare
+S076,Disability Welfare Aid,0,100,300000,All,All,All,Central,Social Welfare
+S077,Senior Citizen Welfare,60,100,200000,All,All,All,Central,Social Welfare
+S078,Orphan Support Scheme,0,25,300000,All,All,All,Central,Social Welfare
+S079,Transgender Welfare Scheme,18,60,300000,All,All,All,Central,Social Welfare
+S080,Urban Poor Welfare,18,70,250000,All,All,All,Central,Social Welfare
+S081,Free Laptop Scheme,15,25,250000,All,All,All,State,Education
+S082,Digital Literacy Program,18,60,300000,All,All,All,Central,Education
+S083,Online Learning Support,15,30,300000,All,All,All,Central,Education
+S084,Girl Child Digital Scheme,10,25,250000,All,All,Female,Central,Education
+S085,Rural Education Aid,10,30,300000,All,All,All,Central,Education
+S086,Urban Education Grant,10,30,350000,All,All,All,Central,Education
+S087,SC ST Digital Support,10,30,250000,All,SC/ST,All,Central,Education
+S088,Minority Digital Education,10,30,250000,All,Minority,All,Central,Education
+S089,Women Higher Education Aid,18,40,300000,All,All,Female,Central,Education
+S090,Adult Education Program,25,60,300000,All,All,All,Central,Education
+S091,Unemployment Allowance,18,45,300000,All,All,All,State,Employment
+S092,Graduate Employment Scheme,21,35,350000,All,All,All,Central,Employment
+S093,Women Employment Support,18,45,300000,All,All,Female,Central,Employment
+S094,Youth Job Guarantee,18,35,300000,All,All,All,Central,Employment
+S095,Minority Employment Aid,18,45,300000,All,Minority,All,Central,Employment
+S096,SC ST Employment Scheme,18,45,300000,All,SC/ST,All,Central,Employment
+S097,Rural Employment Program,18,45,300000,All,All,All,Central,Employment
+S098,Urban Employment Mission,18,45,350000,All,All,All,Central,Employment
+S099,Women Self Employment,21,50,400000,All,All,Female,Central,Employment
+S100,Senior Citizen Employment Aid,60,75,300000,All,All,All,Central,Employment
